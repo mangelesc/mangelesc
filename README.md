@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I’m currently working as a *Web developer and desinger* for a instership
+- :computer: I’m currently working as a *web developer and desinger* for a instership
 
 - 🌱 I’m currently studying *Web Development* 
 
