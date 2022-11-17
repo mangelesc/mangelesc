@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: 🔭 I’m currently working as a Web developer and Desinger for a instership
+- :computer: I’m currently working as a *Web developer and desinger* for a instership
 - 🌱 I’m currently learning ...
 -   I’m looking to collaborate on ...
 
