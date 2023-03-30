@@ -2,7 +2,7 @@
 
 - :computer: I’m currently working as a *FrontEnd developer and desinger* for a instership
 
-- 🌱 I’m currently studying *Web Development* 
+- 🌱 I’m a junior *Web Developer* 
 
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaangelescordoba) 
 
