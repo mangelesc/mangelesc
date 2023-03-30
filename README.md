@@ -14,7 +14,8 @@
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mangelesc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mangelesc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangelesc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangelesc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mangelesc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 [![](https://visitcount.itsvg.in/api?id=mangelesc&icon=1&color=0)](https://visitcount.itsvg.in)
