@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying *Web Development* 
 
-- 📫 You can reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaangelescordoba) 
+- 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaangelescordoba) 
 
 - ⚡ Fun fact: I used to be a Primary School Teacher
 
