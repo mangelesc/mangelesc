@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
-- :computer: I’m currently working as a *FrontEnd developer and Web designer*
+- 🌱 I’m a junior *Web Developer*
 
-- 🌱 I’m a junior *Web Developer* 
+- - :computer: Currently working as a *FrontEnd developer and Web designer*
 
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaangelescordoba) 
 
